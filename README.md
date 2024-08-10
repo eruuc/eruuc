@@ -11,7 +11,7 @@
 - Python
 - HTML
 - CSS
-- Typescript
+- JavaScript
 - Racket
 
 ##### Libraries:
